@@ -21,6 +21,25 @@
 
 **・Сделать стенд большим:**<br>
 Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и 2 палками в руках.
+<br>
+### Конфигурация:
+```yaml
+armsAdd: true
+armsRemove: true
+plateAdd: true
+plateRemove: true
+doSmall: true
+doBig: true
 
+dropItems: true
+
+playSounds: true
+
+removeItems: true
+removeItemsInCreative: false
+
+damageTools: true
+damageToolsInCreative: false
+```
 
 
