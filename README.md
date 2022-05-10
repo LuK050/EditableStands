@@ -42,4 +42,14 @@ damageTools: true
 damageToolsInCreative: false
 ```
 
+### Права:
+・**editablestands.arms.add** - право на добавление рук.<br>
+・**editablestands.arms.remove** - право на удаление рук.<br>
+・**editablestands.plate.add** - право на добавление плиты.<br>
+・**editablestands.plate.remove** - право на удаление плиты.<br>
+・**editablestands.size.small** - право на уменьшение стенда.<br>
+・**editablestands.size.big** - право на увеличение стенда.<br>
 
+### Команда:
+・**/editablestands reload** - перезагрузка плагина.<br>
+・**/editablestands info** - информация о плагине.<br>
