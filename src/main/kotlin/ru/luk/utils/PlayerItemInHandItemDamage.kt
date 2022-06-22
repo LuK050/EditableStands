@@ -1,10 +1,11 @@
 package ru.luk.utils
 
 import org.bukkit.Sound
+import org.bukkit.entity.Player
 import org.bukkit.enchantments.Enchantment
 import org.bukkit.inventory.meta.Damageable
-import org.bukkit.entity.Player
 import org.bukkit.inventory.meta.ItemMeta
+
 import kotlin.random.Random
 
 
@@ -16,9 +17,8 @@ private val levelChancesMap: Map<Int, Int> = mapOf(
 
 fun playerItemInHandItemDamage(player: Player) {
     if (Enchantment.DURABILITY in player.inventory.itemInMainHand.enchantments)
-        when(Random.nextInt(0, 100)) {
-            in 0..levelChancesMap[player.inventory.itemInMainHand.getEnchantmentLevel(Enchantment.DURABILITY)]!! -> return
-        }
+        if (Random.nextInt(0, 100) in 0..levelChancesMap[player.inventory.itemInMainHand.getEnchantmentLevel(Enchantment.DURABILITY)]!!)
+            return
 
     val damageableMeta: Damageable = player.inventory.itemInMainHand.itemMeta as Damageable
     damageableMeta.damage += 1
