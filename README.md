@@ -53,3 +53,7 @@ damageToolsInCreative: false
 ### Команда:
 ・**/editablestands reload** - перезагрузка плагина.<br>
 ・**/editablestands info** - информация о плагине.<br>
+
+### Ресурсы:
+・
+・https://www.curseforge.com/minecraft/bukkit-plugins/editablestands
