@@ -55,5 +55,6 @@ damageToolsInCreative: false
 ・**/editablestands info** - информация о плагине.<br>
 
 ### Ресурсы:
-・
-・https://www.curseforge.com/minecraft/bukkit-plugins/editablestands
+・SpigotMC: https://spigotmc.org/resources/editablestands.100873/
+<br>
+・CurseForge: https://www.curseforge.com/minecraft/bukkit-plugins/editablestands
