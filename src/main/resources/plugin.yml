@@ -1,0 +1,31 @@
+name: EditableStands
+main: ru.luk.EditableStands
+author: _LuK__
+version: 1.0
+database: false
+api-version: 1.17
+depend: ["ProtocolLib"]
+
+permissions:
+  editablestands.arms.remove:
+    default: true
+
+  editablestands.arms.add:
+    default: true
+
+  editablestands.plate.remove:
+    default: true
+
+  editablestands.plate.add:
+    default: true
+
+  editablestands.size.small:
+    default: true
+
+  editablestands.size.big:
+    default: true
+
+commands:
+  editablestands:
+    usage: "§cCorrect use: /editablestands [info/reload]"
+    permission: op
