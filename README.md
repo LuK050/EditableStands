@@ -1,28 +1,28 @@
 # EditableStands
-Плагин, добавляющий механику редактирования стоек для брони. В чём его особенность? Эта механика очень близка к ванильной, она не использует графические интерфейсы, а все делается с помощью инструментов, предметов и кликов. 
+A plugin that adds new mechanics for editing armor stands. What is its feature? This mechanic is very close to vanilla, it does not use GUI interfaces, but everything is done using tools, items and clicks. The plugin is perfect for vanilla servers!
 <br><br>
 ![a_s_aems](https://user-images.githubusercontent.com/78260779/167735238-6b73e800-fa4c-41aa-962f-05eea9cdc01a.gif)
 <br>
-### Использование:
-**・Добавление рук:**<br>
-Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и 2 палками в руках.
+### Ho to use::
+**・Adding arms:**<br>
+With SHIFT pressed, press with your hand on the stand with 2 sticks.
 
-**・Удаление рук:**<br>
-Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и ножницами в руках. Вам выпадет 2 палки.
+**・Removing arms:**<br>
+With SHIFT pressed, press with your hand on the stand with shears. You will drop 2 sticks
 
-**・Добавление плиты:**<br>
-Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и гладкой каменной плитой в руках.
+**・Adding plate:**<br>
+With SHIFT pressed, press with your hand on the stand with smooth stone slab.
 
-**・Удаление плиты:**<br>
-Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и любой киркой в руках. Вам выпадет гладкая каменная плита.
+**・Removing plate:**<br>
+With SHIFT pressed, press with your hand on the stand with any pickaxe. You will drop smooth stone slab.
 
-**・Сделать стенд маленьким:**<br>
-Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и любым топором в руках. Вам выпадет 2 палки.
+**・Make it small:**<br>
+With SHIFT pressed, press with your hand on the stand with any axe. You will drop 2 sticks.
 
-**・Сделать стенд большим:**<br>
-Нажмите правой кнопкой мыши по стенду с зажатой клавишей SHIFT и 2 палками в руках.
+**・Make it big:**<br>
+With SHIFT pressed, press with your hand on the stand with 2 sticks.
 <br>
-### Конфигурация:
+### Configuration:
 ```yaml
 armsAdd: true
 armsRemove: true
@@ -42,19 +42,19 @@ damageTools: true
 damageToolsInCreative: false
 ```
 
-### Права:
-・**editablestands.arms.add** - право на добавление рук.<br>
-・**editablestands.arms.remove** - право на удаление рук.<br>
-・**editablestands.plate.add** - право на добавление плиты.<br>
-・**editablestands.plate.remove** - право на удаление плиты.<br>
-・**editablestands.size.small** - право на уменьшение стенда.<br>
-・**editablestands.size.big** - право на увеличение стенда.<br>
+### Permissions:
+・**editablestands.arms.add** - permission to add arms.<br>
+・**editablestands.arms.remove** - permission to remove arms.<br>
+・**editablestands.plate.add** - permission to add plate.<br>
+・**editablestands.plate.remove** - permission to remove plate.<br>
+・**editablestands.size.small** - permission to downsize.<br>
+・**editablestands.size.big** - permission to enlarge.<br>
 
-### Команда:
-・**/editablestands reload** - перезагрузка плагина.<br>
-・**/editablestands info** - информация о плагине.<br>
+### Commands:
+・**/editablestands reload** - plugin reload.<br>
+・**/editablestands info** - plugin information.<br>
 
-### Ресурсы:
+### Resources:
 ・SpigotMC: https://spigotmc.org/resources/editablestands.100873/
 <br>
 ・CurseForge: https://www.curseforge.com/minecraft/bukkit-plugins/editablestands
