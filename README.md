@@ -54,9 +54,4 @@ damageToolsInCreative: false
 ・**/editablestands reload** - plugin reload.<br>
 ・**/editablestands info** - plugin information.<br>
 
-### Resources:
-・Modrinth: https://modrinth.com/plugin/editablestands
-<br>
-・SpigotMC: https://spigotmc.org/resources/editablestands.100873/
-<br>
-・CurseForge: https://www.curseforge.com/minecraft/bukkit-plugins/editablestands
+#### ❤️ Icon by [cheharka](https://purcat.monster/)
