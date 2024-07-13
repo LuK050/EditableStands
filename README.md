@@ -3,7 +3,7 @@ A plugin that adds new mechanics for editing armor stands. What is its feature? 
 <br><br>
 ![a_s_aems](https://user-images.githubusercontent.com/78260779/167735238-6b73e800-fa4c-41aa-962f-05eea9cdc01a.gif)
 <br>
-### Ho to use::
+### How to use::
 **・Adding arms:**<br>
 With SHIFT pressed, press with your hand on the stand with 2 sticks.
 
