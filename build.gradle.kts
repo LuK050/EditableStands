@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "ru.luk"
-version = "1.1"
+version = "1.3.1"
 
 repositories {
     mavenCentral()
@@ -23,7 +23,6 @@ dependencies {
 
     compileOnly("org.spigotmc:spigot-api:1.17-R0.1-SNAPSHOT")
     compileOnly("org.spigotmc:spigot:1.17-R0.1-SNAPSHOT")
-    compileOnly("com.comphenix.protocol:ProtocolLib:4.7.0")
 }
 
 tasks {
