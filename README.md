@@ -1,6 +1,5 @@
 # EditableStands
 A plugin that adds new mechanics for editing armor stands. What is its feature? This mechanic is very close to vanilla, it does not use GUI interfaces, but everything is done using tools, items and clicks. The plugin is perfect for vanilla servers!
-#### ❗[ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) is required to use the plugin
 <br>
 
 ![a_s_all-min](https://github.com/user-attachments/assets/85c383f2-8811-471c-a906-354cea9de82e)
