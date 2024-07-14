@@ -1,4 +1,5 @@
 # EditableStands
+#### [Modrinth](https://modrinth.com/plugin/editablestands) ・ [SpigotMC](https://www.spigotmc.org/resources/editablestands.100873/) ・ [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/editablestands)
 A plugin that adds new mechanics for editing armor stands. What is its feature? This mechanic is very close to vanilla, it does not use GUI interfaces, but everything is done using tools, items and clicks. The plugin is perfect for vanilla servers!
 <br>
 
